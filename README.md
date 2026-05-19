@@ -8,3 +8,5 @@ The **Code** folder contains
 The **Figures** Folder contains all relevant figures from the experimentation.
 
 To reproduce the experiments, clone the GitHub repository and execute the provided scripts. The notebooks are already ran, but you might run again to replicate the results. Note that some tests take a few hours to run.
+
+The report document is named **FYS5419_P2.pdf**.
